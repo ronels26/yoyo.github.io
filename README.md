@@ -1,16 +1,3 @@
-# yoyo.github.io
-
->
-    <head>
-        <title>hallo</title>
-    </head>
-    <body>
-    <script>
-        alert("hallo,selamt pagi dek ku ð¥°ð¥°");
-    </script>
-    </body>
-</html>
-
 <html>
     <head>
         <title>hallo</title>
