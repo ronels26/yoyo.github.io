@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Dialog Confirm</title>
+    </head>
+    <body>
+    <script>
+        var yakin = confirm("ini nah hadiahnya?pencetlah");
+
+        if (yakin) {
+            window.location = "https://alkitab.app/v/a70c7f64f28d";
+        } else {
+            document.write("Baiklah, tetap di sini saja ya :)");
+        }
+    </script>
+    </body>
+</html>
